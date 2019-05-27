@@ -15,7 +15,7 @@ void printArray(int arr[], int n)
 		printf("%d ", arr[i]);
 	}
 }
-
+//hihihihi
 // perform bubble sort on arr[]
 void bubbleSort(int arr[], int n)
 {

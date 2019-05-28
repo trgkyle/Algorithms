@@ -24,4 +24,7 @@ int BinarySearch(int a[], int left, int right, int x)
 	if (x > a[mid]) 
 		return BinarySearch(a,mid+1,right,x);
     //return vi tri;
+
+
+    
 }
